@@ -6,7 +6,7 @@ PROJE ADI: Üniversite Araştırma ve Laboratuvar Yönetimi Sistemi
 
 2. Öğrenci Numarası: 1250505081
    Adı Soyadı: Nazlı Arslan
-   Görevi: Laboratuvar, cihaz ve rezervasyon işlemlerinin geliştirilmesi; rezervasyon çakışma algoritmasının kontrol edilmesi.
+   Görevi: Laboratuvar, cihaz ve rezervasyon işlemlerinin geliştirilmesi; rezervasyon çakışma algoritmasının kontrol edilmesi. README ve GitHub deposunun incelenmesi.
 
 3. Öğrenci Numarası: 1250505034
    Adı Soyadı: Sümeyye Hatice Ermiş
@@ -14,4 +14,4 @@ PROJE ADI: Üniversite Araştırma ve Laboratuvar Yönetimi Sistemi
 
 4. Öğrenci Numarası: 1250505801
    Adı Soyadı: Barış Güler
-   Görevi: Birim testlerinin kontrol edilmesi; UML sınıf diyagramı, README ve GitHub deposunun incelenmesi. Uygulamanın çalıştırılması, test sonuçları ve projenin genel işleyişini anlatmak.
+   Görevi: Birim testlerinin kontrol edilmesi; UML sınıf diyagramının incelenmesi. Uygulamanın çalıştırılması, test sonuçları ve projenin genel işleyişini anlatmak.
